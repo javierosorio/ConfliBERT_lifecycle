@@ -1,11 +1,13 @@
 # ConfliBERT lifecycle
 
 ## Authors
+
 Patrick T. Brandt, Vito D'Orazio, Yibo Hu, Latifur Khan, Shreyas Meher, Javier Osorio, Marcus Sianan
 
 ---
 
 ## Introduction
+
 This repository documents the process and technical elements for developing ConfliBERT, a domain-specific Large Language Model (LLM) specialized on political conflict and violence. 
 
 Thanks to the support of the National Science Foundation [grants XXX], our research team developed ConfliBERT ([Hu et al. 2022](https://aclanthology.org/2022.naacl-main.400/))to process a variety of Natural Language Procesing (NLP) tasks in English text. ConfliBERT outperforms all other LLMs in when conducting conflict specific NLP tasks and has been validated by other teams as the state of the art of Machine Learning developments by other teams of researchers ([Häffner et al. 2023](https://www.cambridge.org/core/journals/political-analysis/article/introducing-an-interpretable-deep-learning-approach-to-domainspecific-dictionary-creation-a-use-case-for-conflict-prediction/BB6AD7222954A1779D97AB319621DC7E)).
@@ -33,12 +35,21 @@ For the three first stages, the repository includes specific docummentation for 
 
 ---
 
-## Who benefits from this project
-The information in this repository intends to help different types of users. Users with basic expertise in computerized social sciences interested in using ConflBERT for their own research projects will find intuitive and easy to use tools, examples, and recomendations in this repository. This type of users include graduate students, practitoners, security analysits, Assistant Professors. The repository also provides more technical information for advanced computer science users interested in developing or enhancing their own domain-specific LLMs. 
+## Who benefits from this project?
+
+The information in this repository intends to help different types of users with distinct levels of technical sophistication. 
+
+Users with basic expertise in computerized social sciences interested in using ConflBERT for their own research projects will find intuitive and easy to use tools, examples, and recomendations in this repository. This type of users include graduate students in the social sciences, practitoners, security analysits, Assistant Professors. 
+
+The repository also provides more technical information for advanced computer science users interested in developing or enhancing their own domain-specific LLMs. This includes graduate students in computer sciences, developers, senior analysts and researchers, as well as Associate and Full Professors.
 
 
 
 
+---
 
+## Funding
+
+This research project is possible thanks to the generous support of the National Science Foundation through a variety of reserach grants (XXXXXX).
 
 
