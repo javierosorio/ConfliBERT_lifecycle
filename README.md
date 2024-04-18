@@ -43,13 +43,13 @@ The content includes distinct folders corresponding to each of the main stages o
    * Describes the methodology implemented to ensure the domain validity of the text used to conform the corpora in each language. This incudes a detailed description of the words used to filter out false positives, and the process of shaping domain-specific text tailored to ConfliBERT.
    * Due to copyright restrictions, we cannot make publicly available the entire corpora used to develop the different ConfliBERT models.
 3. **Pretraining**:
-   * Provides a technical descriptio onf the LLM design and architecture including: environment setup, script development, and model training.
-4. **Training Data**:
-   * Describes the different applications developed by this research team to test ConfliBERT performance in a variety of NLP tasks.
+   * Provides a technical description onf the LLM design and architecture including: environment setup, script development, and model training.
+4. **Training Datasets**:
+   * Describes the different applications developed by this research team to test ConfliBERT's performance in a variety of NLP tasks.
 5. **Machine translation**:
-   *
+   * Presents the methodology used to generate machine translations to compare the performance of native language ConfliBERT models in their original languages and ConfliBERT EN in machine-generated corpora. 
 6. **Applications**:
-   * 
+   * Documents additional ConfliBERT applications using datasets developed by other research teams.
 
 For stages 1-3, the repository includes specific docummentation for the different languages included in the ConfliBERT family:
 
