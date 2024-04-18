@@ -42,7 +42,7 @@ The content includes distinct folders corresponding to each of the main stages o
 2. **Corpus**:
    * Describes the methodology implemented to ensure the domain validity of the text used to conform the corpora in each language. This incudes a detailed description of the words used to filter out false positives, and the process of shaping domain-specific text tailored to ConfliBERT.
    * Due to copyright restrictions, we cannot make publicly available the entire corpora used to develop the different ConfliBERT models.
-3. **Pretraining**:
+3. **LLM Development**:
    * Provides a technical description onf the LLM design and architecture including: environment setup, script development, and model training.
 4. **Training Datasets**:
    * Describes the different applications developed by this research team to test ConfliBERT's performance in a variety of NLP tasks.
@@ -54,11 +54,11 @@ The content includes distinct folders corresponding to each of the main stages o
 For stages 1-3, the repository includes specific docummentation for the different languages included in the ConfliBERT family:
 
 * AR - Arabic - Done and published ([Alsarra et al. 2023](https://aclanthology.org/2023.ranlp-1.11/#:~:text=2023.-,ConfliBERT%2DArabic%3A%20A%20Pre%2Dtrained%20Arabic%20Language%20Model%20for,%E2%80%93108%2C%20Varna%2C%20Bulgaria.))
-* **EN - English** - Done and published ([Hu et al. 2022](https://aclanthology.org/2022.naacl-main.400/))
-* **FR - French** - In progress
-* **HI - Hindi** - In progress
-* **RU - Russian** - In progress
-* **SP - Spanish** - Done and published ([Yang et al. 2023](https://ieeexplore.ieee.org/document/10409883)). Upgrade in progress.
+* **EN - English**: Completed and published ([Hu et al. 2022](https://aclanthology.org/2022.naacl-main.400/))
+* **FR - French**: In progress
+* **HI - Hindi**: In progress
+* **RU - Russian**: In progress
+* **SP - Spanish**: Completed and published ([Yang et al. 2023](https://ieeexplore.ieee.org/document/10409883)). Update in progress.
 
 ---
 
