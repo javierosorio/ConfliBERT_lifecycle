@@ -1,6 +1,6 @@
 # ConfliBERT lifecycle
 
-# Table of contents
+## Table of contents
 1. [Authors](#authors)
 2. [Introduction](#introduction)
 3. [Structure](#structure)
@@ -80,9 +80,9 @@ The content of this repository is structured in two levels:
 
 1. Substantive information.
    * This first level aims to present information in an accessible and intuitive way to enable researchers use the tools developed in this project.
-   * The information includes clear descriptions, explanations, examples, and tutorials so that users understand the basic intuition behind ConfliBERT and easily apply  ConfliBERT to advance their own research.  
+   * The information includes clear descriptions, explanations, examples, and tutorials so that users understand the basic intuition behind ConfliBERT and easily apply  these tools to advance their own research.  
 2. Technical details.
-   * The second level of information offers more detailed technical information at the different stages of the LLM development lifecycle for developers or advanced researchers.
+   * The second level offers more detailed technical information at the different stages of the LLM development lifecycle for developers or advanced researchers.
 
 ---
 
